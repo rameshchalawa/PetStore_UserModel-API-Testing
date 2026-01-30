@@ -35,6 +35,8 @@ PetStore – User Model (Postman Collection)
 This repository contains a Postman collection for testing the User endpoints of the public Swagger Petstore API.  
 The collection focuses on CRUD operations for users, using the firstName as a path parameter (via a Postman variable) to demonstrate variable-based testing and simple workflows.  
 
+**Published Documentation:** https://documenter.getpostman.com/view/51509819/2sBXVo8TGj  
+
 **How To Use This Collection**  
 
 Import the collection into Postman  
